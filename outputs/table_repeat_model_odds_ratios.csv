@@ -1,0 +1,13 @@
+Variable,Odds_Ratio,P_Value,Coefficient
+housing_status_clean_Unhoused,2.984,0.0084,1.0932
+call_type_group_model_Emergency Evaluation,2.29,0.1331,0.8284
+housing_status_clean_Housed,1.855,0.1269,0.6181
+call_type_group_model_Suicidal / Self-Harm,1.78,0.1453,0.5763
+call_type_group_model_Person Needs Assistance,1.66,0.2292,0.5066
+receiving_facility_model_Other Facility,1.618,0.2045,0.4813
+severe_flag,1.397,0.0729,0.3345
+call_type_group_model_Other / Low Count,1.081,0.8524,0.078
+call_type_group_model_Welfare Check,0.972,0.956,-0.0281
+housing_status_clean_Unknown,0.872,0.7911,-0.1372
+receiving_facility_model_Providence ED,0.814,0.3725,-0.2064
+const,0.114,0.0002,-2.1692

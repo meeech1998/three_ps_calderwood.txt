@@ -1,0 +1,157 @@
+call_type,call_type_clean,call_type_group
+Assault,assault,Assault / Violence
+Assault/Person needs assistance,assault / person needs assistance,Assault / Violence
+"Assault* (Incident Changed to ""Emergency Evaluation"" after Dispatch/Response)",assault incident changed to emergency evaluation after dispatch / response,Assault / Violence
+HARASSMENT,harassment,Assault / Violence
+INTIMIDATION,intimidation,Assault / Violence
+Partner Family Member Assault,partner family member assault,Assault / Violence
+Sex Offense,sex offense,Assault / Violence
+Sexual Assault,sexual assault,Assault / Violence
+Shots Fired,shots fired,Assault / Violence
+Suicidal / Assault w/ Weapon,suicidal / assault w / weapon,Assault / Violence
+DISTURBANC,disturbance,Disturbance
+DISTURBANCE,disturbance,Disturbance
+Disturbance,disturbance,Disturbance
+Disturbance / Emergency Eval,disturbance / emergency eval,Disturbance
+Disturbance/Eval,disturbance / eval,Disturbance
+Disturbance/Medical,disturbance / medical,Disturbance
+Disturbance/PFMS,disturbance / pfms,Disturbance
+DOMESTIC DISTURBANCE,domestic disturbance,Disturbance
+Mental Health/Disturbance,mental health / disturbance,Disturbance
+EMERGENCY EVAL,emergency evaluation,Emergency Evaluation
+Emergency Eval,emergency evaluation,Emergency Evaluation
+Emergency Evaluation,emergency evaluation,Emergency Evaluation
+Energency Eval,emergency evaluation,Emergency Evaluation
+Emergency Evaluation/Domestic Violence,emergency evaluation / domestic violence,Emergency Evaluation
+Involuntary Evaluation,involuntary evaluation,Emergency Evaluation
+MHE,mental health evaluation,Emergency Evaluation
+MHE (MENTAL HEALTH EVALUATION),mhe mental health evaluation,Emergency Evaluation
+INCORRIGIBLE JUVENILE,incorrigible juvenile,Juvenile / Runaway
+Incorrigable,incorrigible juvenile,Juvenile / Runaway
+Incorrigalbe Juvenile,incorrigible juvenile,Juvenile / Runaway
+Incorrigible Juvenile,incorrigible juvenile,Juvenile / Runaway
+Incorrigible juvenile,incorrigible juvenile,Juvenile / Runaway
+Runaway,runaway,Juvenile / Runaway
+RUNAWAY JUVENILE,runaway juvenile,Juvenile / Runaway
+UNGOVERNABLE JUVENILE,ungovernable juvenile,Juvenile / Runaway
+Medical,medical,Medical
+Medical Assistance,medical assistance,Medical
+Medical Call BLS,medical call bls,Medical
+MEDICAL EMERGENCY,medical emergency,Medical
+"Medical, Mental Health, Disorderly",medical mental health disorderly,Medical
+Medical Standby,medical standby,Medical
+Medical Stanby BLS,medical standby bls,Medical
+Medical Stand-by BLS,medical standby bls,Medical
+Medical Standby BLS,medical standby bls,Medical
+Medical- then MH1,medical then mh1,Medical
+Medical Transfer,medical transfer,Medical
+Medical transfer,medical transfer,Medical
+Overdose,overdose,Medical
+Drugs/Mental Health,drugs / mental health,Mental Health Other
+Invol,invol,Mental Health Other
+Invol/Welfare,invol / welfare,Mental Health Other
+Involuntary,involuntary,Mental Health Other
+Involuntary Commitment,involuntary commitment,Mental Health Other
+Involuntary MH commital,involuntary mh commital,Mental Health Other
+MENTAL HEALTH,mental health,Mental Health Other
+MH 1,mental health,Mental Health Other
+Mental Health,mental health,Mental Health Other
+Mental Health/ Assist LE,mental health / assist le,Mental Health Other
+Officer Initiated,officer initiated,Mental Health Other
+Order of Apprehension,order of apprehension,Mental Health Other
+,,Missing
+Accident Injury,accident injury,Other / Administrative / Unknown
+Agency Request,agency request,Other / Administrative / Unknown
+ASSIST FIRE,assist fire,Other / Administrative / Unknown
+Assist Fire,assist fire,Other / Administrative / Unknown
+Assist Law Enforcement,assist law enforcement,Other / Administrative / Unknown
+Assist Outside Agency,assist outside agency,Other / Administrative / Unknown
+Client request,client request,Other / Administrative / Unknown
+client requested,client requested,Other / Administrative / Unknown
+DOC,doc,Other / Administrative / Unknown
+DOC/Hazard,doc / hazard,Other / Administrative / Unknown
+"Emergency Eval (MEP Note 12/15/25: Grabbing info from LERMS; Form completed by MST w/ Officer Name as ""Professional Completing Form""; Original Form only includes MST #10143)",emergency eval mep note 12 / 15 / 25 grabbing info from lerms form completed by mst w / officer name as professional completing form original form only includes mst 10143,Other / Administrative / Unknown
+EVAL,eval,Other / Administrative / Unknown
+Fire Assist,fire assist,Other / Administrative / Unknown
+Fire Vehicle,fire vehicle,Other / Administrative / Unknown
+Follow-up,follow up,Other / Administrative / Unknown
+Hazard,hazard,Other / Administrative / Unknown
+Hazards,hazards,Other / Administrative / Unknown
+Missing Person,missing person,Other / Administrative / Unknown
+Not applicable - P&P,not applicable p and p,Other / Administrative / Unknown
+Not provided,not provided,Other / Administrative / Unknown
+Not recorded,not recorded,Other / Administrative / Unknown
+Officer request,officer request,Other / Administrative / Unknown
+PFMA,pfma,Other / Administrative / Unknown
+Probation,probation,Other / Administrative / Unknown
+TRAFFIC HAZARD,traffic hazard,Other / Administrative / Unknown
+Transport,transport,Other / Administrative / Unknown
+Transport Requested,transport requested,Other / Administrative / Unknown
+P.N.A.,person needs assistance,Person Needs Assistance
+PERSON NEEDS ASSISTANCE,person needs assistance,Person Needs Assistance
+PNA,person needs assistance,Person Needs Assistance
+Person Need Assis,person needs assistance,Person Needs Assistance
+Person Need Assistance,person needs assistance,Person Needs Assistance
+Person Needs Assessment,person needs assistance,Person Needs Assistance
+Person Needs Assistance,person needs assistance,Person Needs Assistance
+Person Needs Assistatance,person needs assistance,Person Needs Assistance
+Person Needs assistance,person needs assistance,Person Needs Assistance
+Person that needs assistance,person needs assistance,Person Needs Assistance
+Persons Needs Assistance,person needs assistance,Person Needs Assistance
+person needs assistance,person needs assistance,Person Needs Assistance
+PERSON TO BE REMOVED,person to be removed,Person to be Removed
+Person to be Removed,person to be removed,Person to be Removed
+Person to be removed,person to be removed,Person to be Removed
+Attempted Suicide,attempted suicide,Suicidal / Self-Harm
+Invol - Suicide,invol suicide,Suicidal / Self-Harm
+Med; Att Suicide,med att suicide,Suicidal / Self-Harm
+Mental Health / Suicidal,mental health / suicidal,Suicidal / Self-Harm
+Person Needs Assistance/Suicidal Person,person needs assistance / suicidal person,Suicidal / Self-Harm
+Runway / Suicidal Person,runaway / suicidal person,Suicidal / Self-Harm
+Self Harm/Suicidal,self harm / suicidal,Suicidal / Self-Harm
+Self-harm/Suicidal Person,self harm / suicidal person,Suicidal / Self-Harm
+SUICIDAL,suicidal,Suicidal / Self-Harm
+Suicidal,suicidal,Suicidal / Self-Harm
+Suicidal/Person Needs Assistance,suicidal / person needs assistance,Suicidal / Self-Harm
+Suicidal/Welfare Check,suicidal / welfare check,Suicidal / Self-Harm
+Suicidal Ideation,suicidal ideation,Suicidal / Self-Harm
+Suicidal Ideations,suicidal ideation,Suicidal / Self-Harm
+Suicidal Juvenile,suicidal juvenile,Suicidal / Self-Harm
+Suicidal Male,suicidal male,Suicidal / Self-Harm
+SUICIDAL PERSON,suicidal person,Suicidal / Self-Harm
+SUicidal Person,suicidal person,Suicidal / Self-Harm
+Suicidal Claller,suicidal person,Suicidal / Self-Harm
+Suicidal PErson,suicidal person,Suicidal / Self-Harm
+Suicidal Person,suicidal person,Suicidal / Self-Harm
+Suicidal person,suicidal person,Suicidal / Self-Harm
+Suicide Person,suicidal person,Suicidal / Self-Harm
+Suicidal Person/Assist Fire,suicidal person / assist fire,Suicidal / Self-Harm
+Suicidal Person/BLS,suicidal person / bls,Suicidal / Self-Harm
+SUICIDAL PERSON/DISTURBANCE,suicidal person / disturbance,Suicidal / Self-Harm
+Suicidal Person/Medical Call,suicidal person / medical call,Suicidal / Self-Harm
+SUICIDAL PERSON/SUSPICIOUS,suicidal person / suspicious,Suicidal / Self-Harm
+Suicidal Subject,suicidal subject,Suicidal / Self-Harm
+Suicide,suicide,Suicidal / Self-Harm
+SUICIDE ATTEMPT,suicide attempt,Suicidal / Self-Harm
+Suicide Attempt,suicide attempt,Suicidal / Self-Harm
+Suicide attempt,suicide attempt,Suicidal / Self-Harm
+Suicide Attempts,suicide attempts,Suicidal / Self-Harm
+Privacy in Communications,privacy in communications,Suspicious Activity
+SUSPICIOUS ACTIVITY,suspicious activity,Suspicious Activity
+Suspicious Activity,suspicious activity,Suspicious Activity
+Burglary,burglary,Trespass / Disorderly Conduct
+Criminal Mischief,criminal mischief,Trespass / Disorderly Conduct
+DISORDERLY CONDUCT,disorderly conduct,Trespass / Disorderly Conduct
+Disorderly Conduct,disorderly conduct,Trespass / Disorderly Conduct
+Trespass,trespass,Trespass / Disorderly Conduct
+TRESPASSING,trespassing,Trespass / Disorderly Conduct
+Trespassing,trespassing,Trespass / Disorderly Conduct
+Tresspassing,trespassing,Trespass / Disorderly Conduct
+DOC/Welfare Check/Theft,doc / welfare check / theft,Welfare Check
+PERSON TO BE REMOVED/WELFARE CHECK,person to be removed / welfare check,Welfare Check
+Person to be Removed/Welfare Check,person to be removed / welfare check,Welfare Check
+Suspicious Activity / Welfare Check,suspicious activity / welfare check,Welfare Check
+TRESPASS/WELFARE CHECK,trespass / welfare check,Welfare Check
+WELFARE CHECK,welfare check,Welfare Check
+Welfare Check,welfare check,Welfare Check
+Welfare Check MH,welfare check mh,Welfare Check
