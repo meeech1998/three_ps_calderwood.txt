@@ -1,5 +1,0 @@
-cluster_name,Anger,Mania,Confusion,Depression,Repeat,Unhoused
-Escalation-Driven,0.387,1.0,0.459,0.171,0.225,0.279
-Confusion-Driven,0.197,0.0,1.0,0.182,0.265,0.333
-Emotional Distress,0.062,0.0,0.0,1.0,0.22,0.258
-System-Driven,0.13,0.0,0.0,0.0,0.273,0.301
